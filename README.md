@@ -1,10 +1,6 @@
-# vpm
+#vue2-default
 
-# Virtual Propert Management
-
-Freelancer web application built for VPM
-
-Allows employers in the Property Management industry to locate, hire, and obtain work related the their needs.
+Default Vue2 Template with Vuex, Vuetify and v-router installed via NPM
 
 ## Project setup
 
